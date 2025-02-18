@@ -1,0 +1,15 @@
+1. Membuat Projek
+2. Membuat database
+3. Membuat desain
+4. Membuat class Koneksi dan Mengkoneksikan Database
+5. Membuat Fungsi untuk menampilkan Data
+6. Membuat model Pelanggan
+7. Membuat controller pelanggan (Fungsi Insert)
+8. Set Tombol Simpan
+9. Membuat controller fungsi Update Pelanggan
+10. Set datagrid agar dapat diklik
+11. Set Tombol ubah
+12. Membuat controller fungsi Delete Pelanggan
+13. Set Tombol Delete
+
+
