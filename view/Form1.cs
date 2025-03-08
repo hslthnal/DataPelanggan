@@ -124,5 +124,14 @@ namespace DataPelanggan
                 Tampil();
             }
         }
+
+        private void move_btn_Click(object sender, EventArgs e)
+        {
+            TestUtama tes = new TestUtama();
+            tes.Show();
+            this.Hide();
+
+            // TEST
+        }
     }
 }
